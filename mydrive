@@ -1,0 +1,10 @@
+const mystudents = [
+    { name: 'john', age: 20 },
+    { name: 'jane', age: 22 },
+    { name: 'jim', age: 21 },
+];
+
+
+
+console.log(mystudents[0].name);
+console.log(mystudents[0].age);
